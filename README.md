@@ -4,7 +4,7 @@ This project is a web-based book recommendation system that provides personalize
 
 ## Features
 
-- [x] Admin panel for managing tests, test results, book categories, and book recommendations:
+- [ ] Admin panel for managing tests, test results, book categories, and book recommendations:
     - [ ] Create an interface for administrators to log in and access the admin panel.
     - [ ] Implement CRUD (Create, Read, Update, Delete) functionality for managing psychology tests.
     - [ ] Develop functionality to manage test results, including viewing, editing, and deleting them.
